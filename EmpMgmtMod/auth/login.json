@@ -1,0 +1,32 @@
+[
+    {
+        "username": "tbhowmick",
+        "password": "db17702536507bbcfd0fb02136c1a92b4fb65d50299178fa5742b551c8ef6e905b0a5ad7c7cb83626381b94ffe810fa7c34485622773ce8d5521d362018a01dd",
+        "access_type": 1
+    },
+    {
+        "username": "john.smith13",
+        "password": "b547839db564b0a6eb34f386942d435bcf1393b56e20842dd83ca2e800e53073b3f168b4084e43fd2a3b9cb2b6f9aa07529cf09956bc24a1c65e85c5390e66b2",
+        "access_type": 1
+    },
+    {
+        "username": "franc.guy111",
+        "password": "2b83f16c6ea591dea2d7cc0b942e631e2aad5b30596590b6f491b33771043c8fbacb4a7f72d4c11ab8afa9010c5910241c6494eea8c5c6f92a240422ac0db0a5",
+        "access_type": 0
+    },
+    {
+        "username": "lauel.pool22",
+        "password": "e242af755f0eb46d5cfc6b400cc2bb84defce4698af1e145ed419431b40faba2935d8384175f25dbfe90cec3ce19cc9ebc1723868e2ce8864c7e54cc7cd20a2d",
+        "access_type": 0
+    },
+    {
+        "username": "rroy",
+        "password": "bd86f6df46bf74cf5af28c48394d5e1c867040a374bd957f1a2c64db07a2e1db58698d5d57d33dc0578e66028da7202f1e0241de136cafd4867795e0ac0d09bf",
+        "access_type": 0
+    },
+    {
+        "username": "kohara",
+        "password": "089833f0dbd2bdae2e4bdf3f4ca3798d788c3212c16822a77c903758f1c48815a4478288b1ab85dc2c2f1561ca90bb5235b0515ac7431e5ef0aa7b7af0e61ef3",
+        "access_type": 0
+    }
+]

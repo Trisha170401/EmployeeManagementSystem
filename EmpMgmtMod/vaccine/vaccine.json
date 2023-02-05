@@ -1,0 +1,81 @@
+{
+    "Vaccines": [
+        {
+            "vaccine_type": "Covisheild",
+            "total_doses": 2
+        },
+        {
+            "vaccine_type": "Covaxin",
+            "total_doses": 2
+        },
+        {
+            "vaccine_type": "Sputnik V",
+            "total_doses": 2
+        }
+    ],
+    "Employee_Vaccinations": [
+        {
+            "username": "tbhowmick",
+            "vaccine_type": "Covisheild",
+            "latest_date": "12-06-2022",
+            "doses": "2",
+            "boaster": false
+        },
+        {
+            "username": "john.smith13",
+            "vaccine_type": "Covaxin",
+            "latest_date": "12-12-2022",
+            "doses": "2",
+            "boaster": true
+        },
+        {
+            "username": "franc.guy111",
+            "vaccine_type": "Sputnik V",
+            "latest_date": "12-06-2022",
+            "doses": "2",
+            "boaster": false
+        },
+        {
+            "username": "lauel.pool22",
+            "vaccine_type": "Covisheild",
+            "latest_date": "12-08-2022",
+            "doses": 1,
+            "boaster": false
+        },
+        {
+            "username": "krapp",
+            "vaccine_type": "Covisheild",
+            "latest_date": "31-01-2023",
+            "doses": "2",
+            "boaster": false
+        },
+        {
+            "username": "kohara",
+            "vaccine_type": "Covaxin",
+            "latest_date": "11-08-2021",
+            "doses": 2,
+            "boaster": false
+        },
+        {
+            "username": "sroy",
+            "vaccine_type": "Covisheild",
+            "latest_date": "12-09-2020",
+            "doses": 2,
+            "boaster": false
+        },
+        {
+            "username": "rroy",
+            "vaccine_type": "Sputnik V",
+            "latest_date": "12-08-2020",
+            "doses": 2,
+            "boaster": false
+        },
+        {
+            "username": "kohara",
+            "vaccine_type": "Covisheild",
+            "latest_date": "18-09-2022",
+            "doses": 2,
+            "boaster": false
+        }
+    ]
+}

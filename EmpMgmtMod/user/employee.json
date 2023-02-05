@@ -1,0 +1,58 @@
+{
+    "employees": [
+        {
+            "emp_name": "Trisha Bhowmick",
+            "username": "tbhowmick",
+            "emp_id": "1234",
+            "age": "21",
+            "role": "Intern",
+            "dept": "Engineering",
+            "salary": "30000"
+        },
+        {
+            "emp_name": "John Smith",
+            "username": "john.smith13",
+            "emp_id": "2345",
+            "age": "33",
+            "role": "CTO",
+            "dept": "It",
+            "salary": "45000"
+        },
+        {
+            "emp_name": "Guy Franc",
+            "username": "franc.guy111",
+            "emp_id": "7890",
+            "age": "33",
+            "role": "manager",
+            "dept": "Sales",
+            "salary": "67000"
+        },
+        {
+            "emp_name": "Laurel Pool",
+            "username": "lauel.pool22",
+            "emp_id": "6748",
+            "age": "54",
+            "role": "Analyst",
+            "dept": "Sales",
+            "salary": "67899"
+        },
+        {
+            "emp_name": "Roman Roy",
+            "username": "rroy",
+            "emp_id": "4444",
+            "age": "34",
+            "role": "SVP",
+            "dept": "Ops",
+            "salary": "78000"
+        },
+        {
+            "emp_name": "Kelly O'hara",
+            "username": "kohara",
+            "emp_id": "9989",
+            "age": "35",
+            "role": "SVP",
+            "dept": "Branding",
+            "salary": "45000"
+        }
+    ]
+}
